@@ -1,7 +1,13 @@
-# Madhumitha-K
+# Madhumitha K
 Results-driven Computer Science student adept in Python, Java, and C programming, with hands-on experience in web development using HTML, CSS, and PHP. Accomplished in creating practical applications, including a peer-to-peer product management system and a tourism management system. Proficient in database management and GUI development. Actively engaged on platforms like HackerRank, GitHub, and LeetCode, showcasing a commitment to continuous learning.
 ## Skills
-Python , Java, C, MySQL, HTML, CSS, PHP
+- Python
+- Java
+- C
+- MySQL
+- HTML
+- CSS
+- PHP
 ## Education
 B.E: COMPUTER SCIENCE
 RAJALAKSHMI ENGINEERING COLLEGE - Chennai
@@ -21,8 +27,12 @@ A graphical user interface (GUI) calculator built using Tkinter in Python. Perfo
 An automated system designed for a bakery to generate customer bills. The bill includes identification details and transaction amounts. Developed using Swing.
 
 ## Extra Curricular
+- Secured 4th place in an Inter College Coding Competition conducted by Velammal Engineering College.
+- Participated in a Technical Quiz conducted by Loyola ICAM College.
+- Participated in Hackathon
+- Participated in Coding Competitions
 ## Link
-HackerRank: https://www.hackerrank.com/madhumitha_k05 
-GitHub: https://github.com/MadhumithaK05
-LeetCode: https://leetcode.com/Madhumitha_K/
-LinkedIn: https://www.linkedin.com/in/madhumitha-k-960b31227/
+- HackerRank: https://www.hackerrank.com/madhumitha_k05 
+- GitHub: https://github.com/MadhumithaK05
+- LeetCode: https://leetcode.com/Madhumitha_K/
+- LinkedIn: https://www.linkedin.com/in/madhumitha-k-960b31227/
