@@ -11,7 +11,7 @@ Results-driven Computer Science student adept in Python, Java, and C programming
 ## Education
 B.E: COMPUTER SCIENCE
 RAJALAKSHMI ENGINEERING COLLEGE - Chennai
-GPA: 8.08
+GPA: 8.09
 ## Projects
 ### 1. Peer-To-Peer Product Management System
 The Peer-To-Peer Product Management System is a web platform designed for students to buy, sell, rent, and request products from their peers. It provides students with the ability to register, create accounts, and engage in various product-related activities within a peer-to-peer marketplace. The system is developed using HTML, CSS, PHP, and JavaScript.
@@ -25,6 +25,8 @@ A web-based application developed using HTML, CSS, JavaScript, and Django, allow
 A graphical user interface (GUI) calculator built using Tkinter in Python. Performs basic operations like addition, multiplication, subtraction, and division.
 ### 6. GUI Bakery Billing System using Swing
 An automated system designed for a bakery to generate customer bills. The bill includes identification details and transaction amounts. Developed using Swing.
+### 7. Food Ordering System 
+The Food Ordering System is a sophisticated web-based platform tailored for students to purchase food items online. This system facilitates user registration and login, enabling students to browse through a diverse menu and make purchases of their desired food selections. Crafted with a blend of HTML, CSS, PHP, and JavaScript, this platform offers a seamless and intuitive user experience for food ordering.
 
 ## Extra Curricular
 - Secured 4th place in an Inter College Coding Competition conducted by Velammal Engineering College.
