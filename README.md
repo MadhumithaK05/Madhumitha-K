@@ -1,5 +1,11 @@
 # Madhumitha K
-Results-driven Computer Science student adept in Java, Python and C programming, with hands-on experience in web development using HTML, CSS, and PHP. Accomplished in creating practical applications, including a peer-to-peer product management system and a Career Guidance System. Proficient in database management and GUI development. Actively engaged on platforms like HackerRank, GitHub, and LeetCode, showcasing a commitment to continuous learning.
+Results-driven Computer Science student skilled in Java programming, with
+hands-on experience in web development using HTML, CSS. Developed practical
+applications such as a peer-to-peer product management system and a Career
+Guidance System. Proficient in database management and backend development, and
+with a strong interest in machine learning. Actively contributing on platforms like
+HackerRank, GitHub, and LeetCode, showcasing a strong commitment to continuous
+learning and problem-solving.
 ## Skills
 - Java
 - Python
@@ -8,11 +14,11 @@ Results-driven Computer Science student adept in Java, Python and C programming,
 - HTML
 - CSS
 - JavaScript
-- PHP
+- React
 ## Education
 B.E: COMPUTER SCIENCE
 RAJALAKSHMI ENGINEERING COLLEGE - Chennai
-GPA: 8.09
+GPA: 8.11
 ## Projects
 ### 1. Food Ordering System 
 The Food Ordering System is a sophisticated web-based platform tailored for students to purchase food items online. This system facilitates user registration and login, enabling students to browse through a diverse menu and make purchases of their desired food selections. Crafted with a blend of HTML, CSS, PHP, and JavaScript, this platform offers a seamless and intuitive user experience for food ordering.
